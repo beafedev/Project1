@@ -1,0 +1,29 @@
+Google font: Open Sans;
+
+Body..........
+Background colour: #f9fafb;
+
+
+Container......
+Background colour: #fff
+
+
+Input border:2px solid  #f0f0f0;
+
+Button: #3498db;
+
+
+Need to google 
+:focus
+Outline
+:root
+CSS Custom Properties for Cascading Variables:
+--className-color. var(--success-color)
+
+
+--className-color
+Visibility: hidden/visible
+var(--success-color)
+Bordercolor: #777;
+
+
